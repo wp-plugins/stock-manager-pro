@@ -1,0 +1,206 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/stock-manager-pro\n"
+"POT-Creation-Date: 2013-12-04 22:02:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/stockmanager-history.php:53 includes/stockmanager-report.php:100
+msgid "Display"
+msgstr ""
+
+#: includes/stockmanager-history.php:53 includes/stockmanager-report.php:100
+msgid "records per page"
+msgstr ""
+
+#: includes/stockmanager-history.php:54 includes/stockmanager-report.php:101
+msgid "Nothing found - sorry"
+msgstr ""
+
+#: includes/stockmanager-history.php:55 includes/stockmanager-report.php:102
+msgid "Showing"
+msgstr ""
+
+#: includes/stockmanager-history.php:55 includes/stockmanager-report.php:102
+msgid "to"
+msgstr ""
+
+#: includes/stockmanager-history.php:55 includes/stockmanager-report.php:102
+msgid "of"
+msgstr ""
+
+#: includes/stockmanager-history.php:55 includes/stockmanager-report.php:102
+msgid "records"
+msgstr ""
+
+#: includes/stockmanager-history.php:56 includes/stockmanager-report.php:103
+msgid "filtered from"
+msgstr ""
+
+#: includes/stockmanager-history.php:56 includes/stockmanager-report.php:103
+msgid "total records"
+msgstr ""
+
+#: includes/stockmanager-history.php:57 includes/stockmanager-report.php:104
+msgid "Apply filter"
+msgstr ""
+
+#: includes/stockmanager-history.php:57 includes/stockmanager-report.php:104
+msgid "to table"
+msgstr ""
+
+#: includes/stockmanager-history.php:71
+msgid "Stock mutation history"
+msgstr ""
+
+#: includes/stockmanager-history.php:77
+msgid "Date"
+msgstr ""
+
+#: includes/stockmanager-history.php:78
+msgid "Time"
+msgstr ""
+
+#: includes/stockmanager-history.php:79 includes/stockmanager-history.php:137
+#: includes/stockmanager-report.php:144
+msgid "Description"
+msgstr ""
+
+#: includes/stockmanager-history.php:138
+msgid "Mutation"
+msgstr ""
+
+#: includes/stockmanager-history.php:139
+msgid "Before mutation"
+msgstr ""
+
+#: includes/stockmanager-history.php:140
+msgid "After mutation"
+msgstr ""
+
+#: includes/stockmanager-history.php:147
+msgid "Back"
+msgstr ""
+
+#: includes/stockmanager-main.php:6 includes/stockmanager-report.php:119
+msgid "Stock report"
+msgstr ""
+
+#: includes/stockmanager-main.php:6
+msgid "Settings"
+msgstr ""
+
+#: includes/stockmanager-main.php:6
+msgid "History"
+msgstr ""
+
+#: includes/stockmanager-main.php:37
+msgid "version"
+msgstr ""
+
+#: includes/stockmanager-main.php:42
+msgid "Settings saved."
+msgstr ""
+
+#: includes/stockmanager-options.php:5 includes/stockmanager-options.php:18
+msgid "Yes"
+msgstr ""
+
+#: includes/stockmanager-options.php:5 includes/stockmanager-options.php:18
+msgid "No"
+msgstr ""
+
+#: includes/stockmanager-options.php:61
+msgid "24hr"
+msgstr ""
+
+#: includes/stockmanager-options.php:61
+msgid "12hr"
+msgstr ""
+
+#: includes/stockmanager-options.php:101
+msgid "Stock report options"
+msgstr ""
+
+#: includes/stockmanager-options.php:103
+msgid "View and set the options for the Stock report plugin."
+msgstr ""
+
+#: includes/stockmanager-options.php:107
+msgid "Save Changes"
+msgstr ""
+
+#: includes/stockmanager-report.php:169
+msgid "Stock"
+msgstr ""
+
+#: includes/stockmanager-report.php:170
+msgid "Mutations"
+msgstr ""
+
+#: includes/stockmanager-report.php:171
+msgid "SKU"
+msgstr ""
+
+#: includes/stockmanager-report.php:237
+msgid "No products are defined."
+msgstr ""
+
+#: includes/stockmanager-report.php:239
+msgid "Comments (used in stock mutation report)"
+msgstr ""
+
+#: includes/stockmanager-report.php:240
+msgid "Are you sure you want to process stock mutations?"
+msgstr ""
+
+#: includes/stockmanager-report.php:240
+msgid "Submit"
+msgstr ""
+
+#: includes/stockmanager-report.php:285
+msgid "No comment entered"
+msgstr ""
+
+#: includes/wp-updates-plugin.php:80
+msgid "An unknown error occurred"
+msgstr ""
+
+#: stock-manager.php:25
+msgid "Report settings"
+msgstr ""
+
+#: stock-manager.php:26
+msgid "Display variation columns"
+msgstr ""
+
+#: stock-manager.php:27
+msgid "Low / no stock rows different color"
+msgstr ""
+
+#: stock-manager.php:28 stock-manager.php:33
+msgid "Default number of rows"
+msgstr ""
+
+#: stock-manager.php:30
+msgid "History settings"
+msgstr ""
+
+#: stock-manager.php:31
+msgid "Date format"
+msgstr ""
+
+#: stock-manager.php:32
+msgid "Time format"
+msgstr ""
+
+#: stock-manager.php:70
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
