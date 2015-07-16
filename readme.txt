@@ -1,6 +1,6 @@
 === Stock Manager Pro ===
 Contributors: MarceldeHoog
-Donate link: http://www.paypal.com (marcel.dehoog@gmail.com)
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MF6CXZNLQBHQ
 Tags: stock
 Requires at least: 4.2.2 (not tested in earlier versions)
 Tested up to: 4.2.2
