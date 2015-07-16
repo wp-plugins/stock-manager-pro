@@ -5,7 +5,7 @@ Tags: stock, stock management, woocommerce, products
 Requires at least: 4.2.2 (not tested in earlier versions)
 Tested up to: 4.2.2
 Stable tag: 1.1
-Version:1.1
+Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,8 @@ Stock Manager Pro adds a menu item to WooCommerce, to enable an overview of all
 products stock. This includes the stock of product variations.
 
 == Description ==
+
+**Thanks for your interest in Stock Manager Pro**
 
 After installation, the Wordpress WooCommerce menu shows an extra menu item 
 called Stock Manager Pro. The landing page gives you an overview of all products
