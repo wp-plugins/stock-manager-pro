@@ -1,7 +1,7 @@
 === Stock Manager Pro ===
 Contributors: MarceldeHoog
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MF6CXZNLQBHQ
-Tags: stock
+Tags: stock, stock management, woocommerce, products
 Requires at least: 4.2.2 (not tested in earlier versions)
 Tested up to: 4.2.2
 Stable tag: trunk
