@@ -24,6 +24,7 @@ Manager Pro.
 
 == Installation ==
 There are 2 ways of installing the plug-in:
+
 - Unpack all files, and put them in the /wp-content/plugins directory of your 
 Wordpress installation. Enable the plug-in on the plug-in page.
 
