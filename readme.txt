@@ -4,7 +4,8 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: stock, stock management, woocommerce, products
 Requires at least: 4.2.2 (not tested in earlier versions)
 Tested up to: 4.2.2
-Stable tag: trunk
+Stable tag: 1.1
+Version:1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
