@@ -9,10 +9,8 @@ Version: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Stock Manager Pro adds a menu item to WooCommerce, to enable an overview of all
-products stock. This includes the stock of product variations. Stock levels
-can be adapted to reflect new deliveries or other changes. Low stock is easy
-to detect.
+Stock Manager Pro (for WooCommerce) gives a complete overview of product stock 
+and enables easy stock mutations. Product variations are supported.
 
 == Description ==
 
